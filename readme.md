@@ -1,8 +1,8 @@
-﻿#Paraphrase Recognition
+# Paraphrase Recognition
 
-This is a model that recognize paraphrase of two English sentence. It use Stanford NLP tools as it preprocession tool and use scikit-learn to implement classification model.
+This is a model that recognize paraphrase of two English sentences. It use Stanford NLP tools as it preprocession tool and use scikit-learn to implement classification model.
 
-##Dependency
+## Dependency
 
 
 java
@@ -17,6 +17,5 @@ nltk、scikit-learn、numpy、matplotlib、scipy
 
 
 
-###Contact
-
-crazymage@pku.edu.cn
+## Contact
+qi.li7@mail.mcgill.ca
